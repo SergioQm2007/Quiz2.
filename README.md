@@ -1,6 +1,7 @@
 # Quiz2_Sergio_coversor_de_monedas
-Modo de uso
-Ejecutar el programa: Al ejecutar el programa, se abrirá una ventana gráfica en la que podrás ingresar la cantidad en USD que deseas convertir a CRC.
+Modo de uso: 
+Para ejecutar el código hay e tener la libreriía tkinter
+Al ejecutar el programa, se abrirá una ventana gráfica en la que podrás ingresar la cantidad en USD que deseas convertir a CRC.
 
 Ingresar el monto:
 
