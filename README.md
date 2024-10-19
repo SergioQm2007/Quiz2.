@@ -3,7 +3,7 @@
 
 Modo de uso:
 Es necesario tener la librería tkinter para poder ejecutar este código.
-Se ejecuta el comando: 
+Se ejecuta el comando: coversorMonedaSergio.py.url
 
 Ejemplo de uso:
 
