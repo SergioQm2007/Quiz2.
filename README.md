@@ -1,4 +1,5 @@
-# Quiz2_Sergio_coversor_de_divisas
+# Quiz2_Sergio_coversor_de_monedas
+
 
 Modo de uso:
 Es necesario tener la librería tkinter para poder ejecutar este código.
