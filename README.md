@@ -3,6 +3,10 @@
 
 Modo de uso:
 Es necesario tener la librería tkinter para poder ejecutar este código.
+Se ejecuta el comando: [[InternetShortcut]
+URL=file:///c%3A/Users/casti/Desktop/conversorUnidades/conversorUnidades/coversorMonedaSergio.py
+Uploading coversorMonedaSergio.py.url…]()
+
 
 Ejemplo de uso:
 
